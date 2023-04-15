@@ -1,0 +1,38 @@
+.site { /* Абзац с классом cite */
+color: black; /* Синий цвет текста */
+text-align: center;
+font-size: 40pt;
+} 
+.picture1{
+	text-align: left;
+	margin-left: 50px;
+}
+.head{
+	background-image: url(images/checkerboard.png);
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 50px;
+	padding-bottom: 30px;
+}
+h1{
+	font-size: 70px;
+	text-align: center;
+	color:white;
+padding-top: 90px;
+text-shadow: 2px 2px 20px #000;
+}
+.text1{
+	text-align: left;
+	font-size: 30px;
+	color:black;
+	margin-left: 40px;
+	margin-right: 400px;
+}
+.contacts{
+	text-align: center;
+	border-style: dashed;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
